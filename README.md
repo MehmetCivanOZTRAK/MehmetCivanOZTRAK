@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Civan
 
-<!--
-**MehmetCivanOZTRAK/MehmetCivanOZTRAK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Developer | Unity | C#
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a game developer working on gameplay systems, AI and game mechanics with Unity.
+
+## Currently Working On
+
+- 🍂 Leaf It to Me
+- Police & NPC AI systems
+- Stealth and suspicion mechanics
+- Gameplay systems in Unity
+
+## Technologies
+
+- Unity
+- C#
+- Git / GitHub
+- Blender
+- Rider
+
+## Projects
+
+### 🍂 Leaf It to Me
+A simulation, stealth and adventure game developed with Unity.
+
+## Contact
+
+GitHub: @civanoztrak
