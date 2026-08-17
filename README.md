@@ -30,12 +30,11 @@ I enjoy turning ideas into functional systems, solving technical problems, and c
 
 ### Game Development
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge\&logo=unity\&logoColor=white)
-
-![C%23](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)
-![NavMesh](https://img.shields.io/badge/NavMesh-000000?style=for-the-badge\&logo=unity\&logoColor=white)
-![AI](https://img.shields.io/badge/AI%20%26%20NPC%20Systems-5C2D91?style=for-the-badge)
-
+<p>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Multiplayer%20Game%20Development-4A90E2?style=for-the-badge" />
+</p>
 ### Web Development
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
