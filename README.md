@@ -75,12 +75,6 @@ I focus on understanding how systems work, writing maintainable code, solving pr
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetCivanOZTRAK&show_icons=true&theme=dark&hide_border=true" />
-</p>
----
 
 ## 📫 Let's Connect
 
@@ -88,6 +82,7 @@ I focus on understanding how systems work, writing maintainable code, solving pr
   <a href="https://github.com/MehmetCivanOZTRAK">
     <img src="https://img.shields.io/badge/GITHUB-MehmetCivanOZTRAK-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  
   <a href="mailto:mehmetciwanozt@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-mehmetciwanozt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
