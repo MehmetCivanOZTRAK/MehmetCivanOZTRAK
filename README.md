@@ -75,13 +75,11 @@ I focus on understanding how systems work, writing maintainable code, solving pr
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MehmetCivanOZTRAK&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MehmetCivanOZTRAK&layout=compact&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MehmetCivanOZTRAK&show_icons=true&theme=dark&hide_border=true" />
 </p>
-
 ---
 
 ## 📫 Let's Connect
